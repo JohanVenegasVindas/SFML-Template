@@ -22,3 +22,8 @@ next ->
 we download the SFML_Template file.zip and we place it in the following route
 
 C:\Users\Documentos\Visual Studio 2022\Templates\ProjectTemplates
+
+![example](example4.png)
+
+C:\Users\Documentos\Visual Studio 2022\My Exported Templates
+![example](example3.png)

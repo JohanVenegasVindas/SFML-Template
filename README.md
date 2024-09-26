@@ -27,3 +27,6 @@ C:\Users\Documentos\Visual Studio 2022\Templates\ProjectTemplates
 
 C:\Users\Documentos\Visual Studio 2022\My Exported Templates
 ![example](example3.png)
+
+
+# We create a new project in visual and we should get the SFML template

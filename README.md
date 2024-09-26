@@ -19,6 +19,6 @@ next ->
 ![example](example2.png)
 
 # Once this is done we will proceed to install the template.
+we download the SFML_Template file.zip and we place it in the following route
 
-
-
+C:\Users\Documentos\Visual Studio 2022\Templates\ProjectTemplates

@@ -30,3 +30,4 @@ C:\Users\Documentos\Visual Studio 2022\My Exported Templates
 
 
 # We create a new project in visual and we should get the SFML template
+![example](visualexample.png)
